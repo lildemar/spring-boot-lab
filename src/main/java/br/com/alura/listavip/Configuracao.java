@@ -13,7 +13,7 @@ public class Configuracao {
 	@RequestMapping("/")
 	@ResponseBody
 	public String ola() {
-		return "Ola, Bem vindo ao sistema Lista VIPs";
+		return "<h1>Olá. Bem-vindo ao sistema Lista VIP</h1>";
 	}
 
 	public static void main(String[] args) {
