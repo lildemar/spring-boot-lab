@@ -1,2 +1,2 @@
 # spring-boot-lab
-Laboratório de Spring Boot
+Projeto criado durante o curso 'Spring Boot: Agilidade no desenvolvimento java com Spring' da Alura
